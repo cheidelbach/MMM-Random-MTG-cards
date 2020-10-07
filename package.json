@@ -1,0 +1,7 @@
+{
+  "name": "MMM-random-MTG-cards",
+  "main": "MMM-random-MTG-cards.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
